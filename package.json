@@ -1,0 +1,20 @@
+{
+  "name": "Projeto Sistema de gerencionamento de biblioteca",
+  "version": "1.0.0",
+  "description": "CRUD de um sistema de biblioteca",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apsgois/Sistema-De-Gerencipamento-de-Biblioteca.git"
+  },
+  "author": "Ana Paula Gois, 25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apsgois/Sistema-De-Gerencipamento-de-Biblioteca.git/issues"
+  },
+  "homepage": "https://github.com/apsgois/Sistema-De-Gerencipamento-de-Biblioteca.git#readme"
+}
